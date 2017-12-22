@@ -1,0 +1,45 @@
+div {
+  max-width: 1920px;
+}
+.portfolio  {
+  height: 903px;
+  margin-top: -5%;
+  background: #ff575d;
+}
+
+.our-team {
+  height: 757px;
+  margin-top: -5%;
+  background: #e8e8e8;
+}
+
+.blog {
+  height: 720px;
+  margin-top: -5%;
+  background: #ff575d;
+
+}
+
+.contact-us {
+  height: 553px;
+  margin-top: -5%;
+  background: #e8e8e8;
+}
+
+.footer {
+  height: 115px;
+  margin-top: -5%;
+  margin-bottom: 0;
+  background: #ff575d;
+  color: #e8e8e8;
+  font-family: Quicksand;
+  font-size: 13px;
+  font-weight: 400;
+  text-align: center;
+}
+
+.footer i {
+  position: relative;
+  top: 45%;
+  font-style: normal;
+}
